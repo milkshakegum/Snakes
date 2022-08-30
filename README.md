@@ -9,4 +9,3 @@ and could be refactored to be better, which i plan on doing later, when i have m
 I am very happy how this turned out, I plan on improving the CSS after going through a course for it. I feel with a little
 refactoring and a facelift wtih CSS, this could be a good portfolio piece.
 
-Play Here: https://i3uckwheat.github.io/Snake-JS/
